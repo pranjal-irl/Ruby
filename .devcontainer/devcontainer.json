@@ -1,0 +1,4 @@
+{
+  "name": "Ruby 4.0",
+  "image": "mcr.microsoft.com/devcontainers/ruby:1-4.0-bookworm"
+}
